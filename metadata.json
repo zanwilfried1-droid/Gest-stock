@@ -1,0 +1,6 @@
+{
+  "name": "GESTOCK - Gestion de Stock & Caisse Sans Internet",
+  "description": "Logiciel tout-en-un de caisse enregistreuse, gestion de stock, suivi des ventes, dépenses et bénéfices 100% hors-ligne sans abonnement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
